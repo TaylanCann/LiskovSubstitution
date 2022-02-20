@@ -44,6 +44,7 @@ namespace LiskovSubstitutionUsingFalse
         {
             Console.WriteLine("Go to work");
         }
+        
     }
 
     public class Adult : Person
